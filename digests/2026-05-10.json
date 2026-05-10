@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-10",
+  "summary": "Today's AI news is filled with breakthroughs and advancements, from Google DeepMind's new AI research lab in the UK to Uber's substantial investment in AI coding budget. Carnegie Mellon University has launched a Physical AI Research Institute, while Meta AI is planning to roll out a major expansion of artificial intelligence tools across its advertising business. The 2026 AI Index Report from Stanford University provides insights into the latest AI trends and job market demands.",
+  "highlights": [
+    {
+      "category": "Company Blog",
+      "source": "Netflix Tech Blog",
+      "title": "How Netflix's AI Really Works: The 2026 Engagement Engine",
+      "url": "https://www.youtube.com/watch?v=VoTqaW_xfSQ",
+      "insight": "Netflix's AI uses machine learning to predict if a user will watch the next episode and begins prefetched loading in the background to improve user experience."
+    },
+    {
+      "category": "Research Paper",
+      "source": "arXiv",
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "insight": "A new paper on arXiv explores the concept of an AI co-mathematician, which aims to accelerate mathematical research with agentic AI."
+    },
+    {
+      "category": "Company News",
+      "source": "DoorDash",
+      "title": "DoorDash Applies AI to Safety across Chat and Calls, Cutting Incidents by 50%",
+      "url": "https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/",
+      "insight": "DoorDash has deployed an AI-driven safety system called SafeChat to moderate conversations between Dashers and customers, resulting in a 50% reduction in incidents."
+    },
+    {
+      "category": "Research Institute",
+      "source": "Carnegie Mellon University",
+      "title": "Carnegie Mellon Launches Physical AI Research Institute",
+      "url": "https://www.govtech.com/education/higher-ed/carnegie-mellon-launches-physical-ai-research-institute",
+      "insight": "Carnegie Mellon University has launched a Physical AI Research Institute in partnership with Fujitsu to develop AI-powered machines and robots for practical applications."
+    },
+    {
+      "category": "Model Release",
+      "source": "Hugging Face",
+      "title": "The Complete Hugging Face Primer for 2026",
+      "url": "https://www.kdnuggets.com/the-complete-hugging-face-primer-for-2026",
+      "insight": "Hugging Face has released a comprehensive primer for 2026, providing an overview of its models, features, and applications in the AI landscape."
+    },
+    {
+      "category": "Company News",
+      "source": "Google DeepMind",
+      "title": "Google DeepMind Announces New AI Research Lab in the UK",
+      "url": "https://www.computing.co.uk/news/2025/ai/google-deepmind-announces-uk-ai-research-lab",
+      "insight": "Google DeepMind has announced the opening of a new AI research lab in the UK, focusing on automated research and discovery of new materials."
+    },
+    {
+      "category": "Research Report",
+      "source": "Stanford University",
+      "title": "2026 AI Index Report",
+      "url": "https://lightcast.io/resources/research/stanford-ai-index-2026",
+      "insight": "The 2026 AI Index Report from Stanford University provides insights into the latest AI trends, job market demands, and the impact of AI on various industries."
+    },
+    {
+      "category": "Company News",
+      "source": "Meta AI",
+      "title": "Meta's AI Advertising Plans: What To Expect in 2026",
+      "url": "https://www.adtaxi.com/blog/metas-ai-advertising-plans-what-to-expect-in-2026-and-how-to-prepare/",
+      "insight": "Meta AI is planning to roll out a major expansion of artificial intelligence tools across its advertising business, aiming to automate ad creation and improve user experience."
+    },
+    {
+      "category": "Research Institution",
+      "source": "MIT CSAIL",
+      "title": "This is MIT CSAIL: 2026",
+      "url": "https://www.youtube.com/watch?v=pT2wbEyrbgg",
+      "insight": "MIT CSAIL has released a video showcasing its research and advancements in AI, computer vision, and other areas, highlighting the potential of AI to transform industries."
+    },
+    {
+      "category": "Company News",
+      "source": "Uber",
+      "title": "Uber Spends Full 2026 AI Budget in 4 Months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "insight": "Uber has spent its entire AI coding budget for 2026 in just four months, highlighting the company's significant investment in AI research and development."
+    },
+    {
+      "category": "Model Release",
+      "source": "Anthropic",
+      "title": "Anthropic Claude News | March, 2026",
+      "url": "https://blog.mean.ceo/anthropic-claude-news-march-2026/",
+      "insight": "Anthropic has released updates on its Claude model, focusing on safe and high-performance AI, and addressing issues related to AI misuse and national security risks."
+    }
+  ]
+}
